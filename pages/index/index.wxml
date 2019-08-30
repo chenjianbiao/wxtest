@@ -9,6 +9,7 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
-    test2chenmaster
+    test2chenmaster  
+    chen(c->m)
   </view>
 </view>
