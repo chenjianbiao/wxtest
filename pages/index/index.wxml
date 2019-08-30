@@ -9,6 +9,6 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
-    test
+    test2chen
   </view>
 </view>
